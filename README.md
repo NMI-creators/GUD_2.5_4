@@ -23,7 +23,7 @@
   <h1>凱友伝 旧二.五章 4話</h1>
   
   <video controls>
-    <source src="動画のファイル名" type="video/mp4">
+    <source src="二次創作Ｎｏ．4_2024_11_03_15_40_03(1).mp4" type="video/mp4">
     お使いのブラウザでは動画を再生できません。
   </video>
 
